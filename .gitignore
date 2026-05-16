@@ -1,6 +1,13 @@
-Data/raw/
-Data/processed/*.csv
-Models/
+Data/raw/*
+!Data/raw/.gitkeep
+
+Data/processed/*
+!Data/processed/.gitkeep
+
+Models/*
+!Models/.gitkeep
+
 .ipynb_checkpoints/
 __pycache__/
 *.pkl
+*.csv
