@@ -3,7 +3,7 @@ The original dataset and processed modeling files are not included in this repos
 This project used publicly available LendingClub consumer loan data.
 
 To reproduce the analysis:
-1. Download the dataset from Kaggle [or LendingClub public data sources](https://www.kaggle.com/datasets/ashishjagdishsharma/lendingclub)
+1. Download the dataset from Kaggle (https://www.kaggle.com/datasets/ashishjagdishsharma/lendingclub)
 2. Place raw files inside `Data/raw/`
 3. Run notebooks sequentially from:
    - `01_data_cleaning_and_target_definition.ipynb`
